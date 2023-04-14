@@ -4,7 +4,7 @@ import pandas as pd
 
 def extract_vectors(vector_file, output_file, model_drag_file):
     # Load the vector file
-    vector_data = loadmat(SPVAE_mat_file)
+    vector_data = loadmat(vector_file)
     keys = vector_data.keys()
     print(keys) #dict_keys(['__header__', '__version__', '__globals__', 'model_names', 'emb'])
     name_list = [element for element in vector_data['model_names']]
@@ -43,7 +43,6 @@ def extract_vectors(vector_file, output_file, model_drag_file):
                 f.write(f'{round(drag, 3)}\n')
                 i += 1
     
-
 # body_mat_file = recon_folder / "body" / "recover.mat"
 # body_data = loadmat(body_mat_file)
 # part_keys = body_data.keys()
@@ -68,5 +67,5 @@ if __name__ == "__main__":
     SPVAE_mat_file =  recon_folder / "recover_sym.mat"
     models_with_drags_file = this_folder / "overlapped_names_drags.csv"
     spvae_file = this_folder / "spvae_vectors_drags.csv"
-    extract_vectors(spvae_file, SPVAE_mat_file, models_with_drags_file)
+    extract_vectors(SPVAE_mat_file, spvae_file, models_with_drags_file)
     

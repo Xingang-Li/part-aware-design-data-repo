@@ -43,6 +43,8 @@ for name in name_list1:
         drag = drag_list[index]
         overlapped_drag_list.append(drag)
 
+print(len(overlapped_drag_list))
+
 #store the names of overlapped models
 with open (this_folder / "overlapped_name_list.txt", "w") as f:
     for name in overlapped_name_list:
