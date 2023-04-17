@@ -117,14 +117,14 @@ if __name__ == "__main__":
     recon_folder = this_folder / "carVAE_64_128"
     models_with_drags_file = this_folder / "overlapped_names_drags.csv"
 
-    # #obtain all part vectors from mat files and concatenate them to store them in one csv file
-    # parts_vectors_csv = this_folder / "model_vector_drag" / "all_parts_vectors.csv"
-    # extract_part_vectors(recon_folder, parts_vectors_csv, category='car')
+    #obtain all part vectors from mat files and concatenate them to store them in one csv file
+    parts_vectors_csv = this_folder / "all_parts_vectors.csv"
+    extract_part_vectors(recon_folder, parts_vectors_csv, category='car')
 
-    # #SPVAE vectors
-    # SPVAE_mat_file =  recon_folder / "recover_sym.mat"
-    # spvae_file = this_folder / "model_vector_drag" / "spvae_vectors_drags.csv"
-    # form_model_vector_drag(vector_file=SPVAE_mat_file, model_drag_file=models_with_drags_file, output_file=spvae_file)
+    #SPVAE vectors
+    SPVAE_mat_file =  recon_folder / "recover_sym.mat"
+    spvae_file = this_folder / "model_vector_drag" / "spvae_vectors_drags.csv"
+    form_model_vector_drag(vector_file=SPVAE_mat_file, model_drag_file=models_with_drags_file, output_file=spvae_file)
 
     #part-VAE vectors
     #body
@@ -133,7 +133,7 @@ if __name__ == "__main__":
     form_model_vector_drag(vector_file=body_mat_file, model_drag_file=models_with_drags_file, output_file=body_file)
 
     #all parts
-    all_part_vector_file = this_folder / "model_vector_drag" / "all_parts_vectors.csv"
+    all_part_vector_file = this_folder / "all_parts_vectors.csv"
     all_part_output_file = this_folder / "model_vector_drag" / "all_parts_vectors_drags.csv"
     form_model_vector_drag(vector_file=all_part_vector_file, model_drag_file=models_with_drags_file, output_file=all_part_output_file)
     
