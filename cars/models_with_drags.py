@@ -2,6 +2,13 @@ from scipy.io import loadmat
 from pathlib import Path
 import csv
 
+'''
+Create a list of models with overlapped names and drag coefficients 
+from my training set and Binyang's training set.
+
+Output: overlapped_names_drags.csv
+'''
+
 #car models
 this_folder = Path(__file__).resolve().parent
 recon_folder = this_folder / "carVAE_64_128"
@@ -14,7 +21,7 @@ SPVAE_data = loadmat(SPVAE_mat_file)
 
 SPVAE_keys = SPVAE_data.keys()
 print(SPVAE_keys)
-name_list1 = [element.strip() for element in SPVAE_data['model_names']]
+name_list1 = [element.strip() for element in SPVAE_data['model_names']] #models in my training set
 # print(name_list1)
 # print(len(name_list)) #1162
 
@@ -30,8 +37,8 @@ with open(str(drag_file), newline='') as csvfile:
         name = row[1].strip()
         drag = row[2].strip()
         if '_aug' not in name and '_flip' not in name:
-            name_list2.append(name)
-            drag_list.append(drag)
+            name_list2.append(name) #models in Binyang's training set
+            drag_list.append(drag) #drag coefficients in Binyang's training set
 
 overlapped_name_list = []
 overlapped_drag_list = []
