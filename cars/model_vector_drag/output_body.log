@@ -1,3 +1,14 @@
+Evaluation: root_mean_squared_error on test data: -0.04985848072986079
+	Note: Scores are always higher_is_better. This metric score can be multiplied by -1 to get the metric value.
+Evaluations on test data:
+{
+    "root_mean_squared_error": -0.04985848072986079,
+    "mean_squared_error": -0.002485868100689899,
+    "mean_absolute_error": -0.03601817694848234,
+    "r2": 0.1546423327403308,
+    "pearsonr": 0.39703456246910807,
+    "median_absolute_error": -0.026047300100326548
+}
 0.3762657940387726
 0.3650444746017456
 0.41487810015678406
