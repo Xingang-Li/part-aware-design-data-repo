@@ -1,208 +1,462 @@
-0.3680879473686218
-0.3668398857116699
-0.4162694215774536
-0.3744370937347412
-0.39999914169311523
-0.41955405473709106
-0.43098902702331543
-0.44742828607559204
-0.3989654779434204
-0.3661521077156067
-0.38885247707366943
-0.4264290928840637
-0.3580113649368286
-0.41094690561294556
-0.41759610176086426
-0.4063419997692108
-0.37049055099487305
-0.3720453083515167
-0.36963918805122375
-0.36872708797454834
-0.42646923661231995
-0.39879709482192993
-0.36635568737983704
-0.4158444106578827
-0.442308634519577
-0.3707406520843506
-0.42948588728904724
-0.38404983282089233
-0.37580224871635437
-0.3908371329307556
-0.4203270971775055
-0.3802730441093445
-0.3808373808860779
-0.4379156231880188
-0.4138909876346588
-0.3898378610610962
-0.37178879976272583
-0.3968990445137024
-0.3959178626537323
-0.38958024978637695
-0.43402737379074097
-0.3811335563659668
-0.4189939796924591
-0.3743710517883301
-0.3966352939605713
-0.401253342628479
-0.39957699179649353
-0.37944507598876953
-0.335768461227417
-0.38161516189575195
-0.40289002656936646
-0.3390030264854431
-0.4211916923522949
-0.3930211067199707
-0.37040960788726807
-0.40101999044418335
-0.368929922580719
-0.43083256483078003
-0.3626163601875305
-0.3866497278213501
-0.40893131494522095
-0.38439199328422546
-0.3772504925727844
-0.41055381298065186
-0.3591257631778717
-0.3452332615852356
-0.4014890789985657
-0.3490194082260132
-0.3945191204547882
-0.40460291504859924
-0.386159747838974
-0.3862611651420593
-0.36590975522994995
-0.4115165174007416
-0.3706233501434326
-0.41281044483184814
-0.41003432869911194
-0.37300604581832886
-0.39678993821144104
-0.3649914264678955
-0.3774581551551819
-0.4209333062171936
-0.37249284982681274
-0.37900859117507935
-0.3868088722229004
-0.4157624840736389
-0.40901118516921997
-0.39662501215934753
+0.38085436820983887
+0.3797072172164917
+0.4178733825683594
+0.3759841024875641
+0.38894444704055786
+0.40680092573165894
+0.41637328267097473
+0.4530975818634033
+0.41967543959617615
+0.36399784684181213
+0.3974924683570862
+0.41954758763313293
+0.3754817247390747
+0.42867809534072876
+0.4113078713417053
+0.4087224006652832
+0.37425899505615234
+0.3754108250141144
+0.36492443084716797
+0.35877636075019836
+0.4184802174568176
+0.41326260566711426
+0.37663543224334717
+0.39771124720573425
+0.44196993112564087
+0.3954651951789856
+0.4291245639324188
+0.3892647325992584
+0.4433220624923706
+0.3928512930870056
+0.41474735736846924
+0.364163875579834
+0.3793122172355652
+0.4236004948616028
+0.39447221159935
+0.3815348148345947
+0.37794527411460876
+0.3718471825122833
+0.40246281027793884
+0.39502304792404175
+0.42046213150024414
+0.3569689989089966
+0.4472499489784241
+0.3937132954597473
+0.41501757502555847
+0.4006119668483734
+0.3962042033672333
+0.39123567938804626
+0.3571355938911438
+0.3588430881500244
+0.3930453360080719
+0.36238372325897217
+0.437896192073822
+0.3929421305656433
+0.37606704235076904
+0.3893137574195862
+0.38288623094558716
+0.39486467838287354
+0.36527031660079956
+0.37247276306152344
+0.41177135705947876
+0.39842885732650757
+0.3766445815563202
+0.410971999168396
+0.37079915404319763
+0.3519400954246521
+0.39179500937461853
+0.3592483103275299
+0.40985944867134094
+0.4073036015033722
+0.37020406126976013
+0.3899286389350891
+0.3818594515323639
+0.3973047435283661
+0.372845321893692
+0.3889801800251007
+0.40823012590408325
+0.37855014204978943
+0.39461657404899597
+0.38413095474243164
+0.3977145552635193
+0.4179394841194153
+0.37190964818000793
+0.3764288127422333
+0.39649105072021484
+0.4038044214248657
+0.42864686250686646
+0.4112266004085541
 Predictions:  
- 46     0.368088
-101    0.366840
-175    0.416269
-9      0.374437
-136    0.399999
+ 46     0.380854
+101    0.379707
+175    0.417873
+9      0.375984
+136    0.388944
          ...   
-173    0.379009
-5      0.386809
-55     0.415762
-428    0.409011
-334    0.396625
+173    0.376429
+5      0.396491
+55     0.403804
+428    0.428647
+334    0.411227
 Name: drag, Length: 88, dtype: float32
-{'root_mean_squared_error': -0.050034147274332794, 'mean_squared_error': -0.002503415893469624, 'mean_absolute_error': -0.03686644413525408, 'r2': 0.1486749360125207, 'pearsonr': 0.3991500258208202, 'median_absolute_error': -0.02989608228206636}
+{'root_mean_squared_error': -0.04923380913265923, 'mean_squared_error': -0.002423967961711119, 'mean_absolute_error': -0.03645631952448325, 'r2': 0.17569242669971186, 'pearsonr': 0.42282582143949493, 'median_absolute_error': -0.02583747529983521}
 *** Summary of fit() ***
 Estimated performance of each model:
-                  model  score_val  pred_time_val  fit_time  pred_time_val_marginal  fit_time_marginal  stack_level  can_infer  fit_order
-0   WeightedEnsemble_L2  -0.045831       0.241802  3.063132                0.000507           0.343728            2       True         12
-1        NeuralNetTorch  -0.047282       0.012610  1.639451                0.012610           1.639451            1       True         10
-2        KNeighborsDist  -0.050779       0.217228  0.014149                0.217228           0.014149            1       True          2
-3        KNeighborsUnif  -0.051283       0.252184  0.046199                0.252184           0.046199            1       True          1
-4              LightGBM  -0.051313       0.002140  0.400919                0.002140           0.400919            1       True          4
-5              CatBoost  -0.051688       0.009974  2.053365                0.009974           2.053365            1       True          6
-6         ExtraTreesMSE  -0.052272       0.129649  1.251252                0.129649           1.251252            1       True          7
-7       RandomForestMSE  -0.052570       0.121784  1.235245                0.121784           1.235245            1       True          5
-8            LightGBMXT  -0.052674       0.001849  0.509911                0.001849           0.509911            1       True          3
-9               XGBoost  -0.053415       0.009317  0.664885                0.009317           0.664885            1       True          9
-10      NeuralNetFastAI  -0.054301       0.023116  8.005311                0.023116           8.005311            1       True          8
-11        LightGBMLarge  -0.054672       0.002719  1.128855                0.002719           1.128855            1       True         11
-Number of models trained: 12
+                     model  score_val  pred_time_val    fit_time  pred_time_val_marginal  fit_time_marginal  stack_level  can_infer  fit_order
+0      WeightedEnsemble_L4  -0.048441       7.898605  490.245994                0.001346           0.667644            4       True         32
+1   NeuralNetFastAI_BAG_L3  -0.048705       6.710047  452.786287                0.609825           9.264449            3       True         28
+2      WeightedEnsemble_L3  -0.048786       4.488006  262.524157                0.001050           0.581526            3       True         22
+3      WeightedEnsemble_L5  -0.049485      11.151960  640.713960                0.001205           0.676884            5       True         42
+4   NeuralNetFastAI_BAG_L2  -0.049635       3.976670  245.889928                0.594748          11.321736            2       True         18
+5    NeuralNetTorch_BAG_L2  -0.049818       3.892208  250.620895                0.510286          16.052703            2       True         20
+6     ExtraTreesMSE_BAG_L4  -0.049901       9.101227  564.500153                0.196874           1.481812            4       True         37
+7        LightGBMXT_BAG_L4  -0.050025       9.084481  568.822383                0.180129           5.804043            4       True         33
+8          CatBoost_BAG_L4  -0.050166       9.044469  598.298001                0.140116          35.279660            4       True         36
+9          LightGBM_BAG_L4  -0.050200       9.048906  568.658425                0.144554           5.640085            4       True         34
+10   NeuralNetTorch_BAG_L3  -0.050247       6.966163  468.123415                0.865941          24.601576            3       True         30
+11    LightGBMLarge_BAG_L4  -0.050360       9.221344  597.683829                0.316992          34.665488            4       True         41
+12     WeightedEnsemble_L2  -0.050594       2.167093   39.425448                0.001226           0.859232            2       True         12
+13       LightGBMXT_BAG_L3  -0.050631       6.257528  450.005821                0.157306           6.483982            3       True         23
+14  NeuralNetFastAI_BAG_L4  -0.050667       9.407832  572.970762                0.503479           9.952421            4       True         38
+15         LightGBM_BAG_L3  -0.050693       6.233836  457.517901                0.133615          13.996063            3       True         24
+16  RandomForestMSE_BAG_L4  -0.050844       9.097050  564.788446                0.192698           1.770105            4       True         35
+17          XGBoost_BAG_L4  -0.050906       9.321082  575.805546                0.416730          12.787205            4       True         39
+18   NeuralNetTorch_BAG_L4  -0.050954       9.572127  575.510064                0.667774          12.491724            4       True         40
+19   NeuralNetTorch_BAG_L1  -0.051085       0.549969   18.922390                0.549969          18.922390            1       True         10
+20    ExtraTreesMSE_BAG_L3  -0.051154       6.310227  445.079797                0.210006           1.557959            3       True         27
+21  RandomForestMSE_BAG_L3  -0.051185       6.271089  444.511426                0.170867           0.989588            3       True         25
+22         CatBoost_BAG_L3  -0.051207       6.214548  476.317304                0.114326          32.795466            3       True         26
+23    LightGBMLarge_BAG_L3  -0.051442       6.321195  461.138772                0.220973          17.616933            3       True         31
+24          XGBoost_BAG_L3  -0.051646       6.421492  455.712325                0.321271          12.190487            3       True         29
+25    ExtraTreesMSE_BAG_L2  -0.051875       3.596088  235.859238                0.214166           1.291046            2       True         17
+26         CatBoost_BAG_L2  -0.052064       3.566815  317.426935                0.184893          82.858743            2       True         16
+27       LightGBMXT_BAG_L2  -0.052151       3.501673  241.850678                0.119751           7.282486            2       True         13
+28  NeuralNetFastAI_BAG_L1  -0.052330       0.416488    8.335886                0.416488           8.335886            1       True          8
+29         CatBoost_BAG_L1  -0.053011       0.175774  103.685718                0.175774         103.685718            1       True          6
+30       LightGBMXT_BAG_L1  -0.053016       0.046308    4.495945                0.046308           4.495945            1       True          3
+31  RandomForestMSE_BAG_L2  -0.053155       3.595952  236.766585                0.214030           2.198393            2       True         15
+32         LightGBM_BAG_L2  -0.053270       3.598414  267.645589                0.216493          33.077397            2       True         14
+33         LightGBM_BAG_L1  -0.053463       0.132655   10.616958                0.132655          10.616958            1       True          4
+34    ExtraTreesMSE_BAG_L1  -0.053487       0.191447    1.392600                0.191447           1.392600            1       True          7
+35    LightGBMLarge_BAG_L2  -0.053556       3.565409  278.543917                0.183488          43.975725            2       True         21
+36          XGBoost_BAG_L2  -0.053570       3.862366  245.463608                0.480444          10.895416            2       True         19
+37  RandomForestMSE_BAG_L1  -0.053963       0.167383    1.246619                0.167383           1.246619            1       True          5
+38          XGBoost_BAG_L1  -0.054130       0.770315    9.903993                0.770315           9.903993            1       True          9
+39    LightGBMLarge_BAG_L1  -0.054431       0.442850   75.932143                0.442850          75.932143            1       True         11
+40   KNeighborsDist_BAG_L1  -0.057180       0.237648    0.011348                0.237648           0.011348            1       True          2
+41   KNeighborsUnif_BAG_L1  -0.057475       0.251085    0.024592                0.251085           0.024592            1       True          1
+Number of models trained: 42
 Types of models trained:
-{'XTModel', 'WeightedEnsembleModel', 'XGBoostModel', 'RFModel', 'NNFastAiTabularModel', 'TabularNeuralNetTorchModel', 'KNNModel', 'LGBModel', 'CatBoostModel'}
-Bagging used: False 
-Multi-layer stack-ensembling used: False 
+{'StackerEnsembleModel_NNFastAiTabular', 'StackerEnsembleModel_LGB', 'StackerEnsembleModel_XGBoost', 'StackerEnsembleModel_CatBoost', 'WeightedEnsembleModel', 'StackerEnsembleModel_TabularNeuralNetTorch', 'StackerEnsembleModel_KNN', 'StackerEnsembleModel_RF', 'StackerEnsembleModel_XT'}
+Bagging used: True  (with 5 folds)
+Multi-layer stack-ensembling used: True  (with 5 levels)
 Feature Metadata (Processed):
 (raw dtype, special dtypes):
 ('float', []) : 64 | ['dim_1', 'dim_2', 'dim_3', 'dim_4', 'dim_5', ...]
 *** End of fit() summary ***
-{'model_types': {'KNeighborsUnif': 'KNNModel', 'KNeighborsDist': 'KNNModel', 'LightGBMXT': 'LGBModel', 'LightGBM': 'LGBModel', 'RandomForestMSE': 'RFModel', 'CatBoost': 'CatBoostModel', 'ExtraTreesMSE': 'XTModel', 'NeuralNetFastAI': 'NNFastAiTabularModel', 'XGBoost': 'XGBoostModel', 'NeuralNetTorch': 'TabularNeuralNetTorchModel', 'LightGBMLarge': 'LGBModel', 'WeightedEnsemble_L2': 'WeightedEnsembleModel'}, 'model_performance': {'KNeighborsUnif': -0.05128258021864989, 'KNeighborsDist': -0.050778745196283996, 'LightGBMXT': -0.052674246415994566, 'LightGBM': -0.05131295349571835, 'RandomForestMSE': -0.05256955796779217, 'CatBoost': -0.05168814497049493, 'ExtraTreesMSE': -0.052272101888030685, 'NeuralNetFastAI': -0.05430094906987956, 'XGBoost': -0.05341462228717983, 'NeuralNetTorch': -0.04728180217174519, 'LightGBMLarge': -0.054671813465219446, 'WeightedEnsemble_L2': -0.045831460900346864}, 'model_best': 'WeightedEnsemble_L2', 'model_paths': {'KNeighborsUnif': './agModels-body/models/KNeighborsUnif/', 'KNeighborsDist': './agModels-body/models/KNeighborsDist/', 'LightGBMXT': './agModels-body/models/LightGBMXT/', 'LightGBM': './agModels-body/models/LightGBM/', 'RandomForestMSE': './agModels-body/models/RandomForestMSE/', 'CatBoost': './agModels-body/models/CatBoost/', 'ExtraTreesMSE': './agModels-body/models/ExtraTreesMSE/', 'NeuralNetFastAI': './agModels-body/models/NeuralNetFastAI/', 'XGBoost': './agModels-body/models/XGBoost/', 'NeuralNetTorch': './agModels-body/models/NeuralNetTorch/', 'LightGBMLarge': './agModels-body/models/LightGBMLarge/', 'WeightedEnsemble_L2': './agModels-body/models/WeightedEnsemble_L2/'}, 'model_fit_times': {'KNeighborsUnif': 0.04619932174682617, 'KNeighborsDist': 0.01414942741394043, 'LightGBMXT': 0.5099105834960938, 'LightGBM': 0.40091919898986816, 'RandomForestMSE': 1.2352452278137207, 'CatBoost': 2.0533649921417236, 'ExtraTreesMSE': 1.2512524127960205, 'NeuralNetFastAI': 8.005311250686646, 'XGBoost': 0.6648848056793213, 'NeuralNetTorch': 1.6394507884979248, 'LightGBMLarge': 1.1288552284240723, 'WeightedEnsemble_L2': 0.34372782707214355}, 'model_pred_times': {'KNeighborsUnif': 0.2521836757659912, 'KNeighborsDist': 0.21722769737243652, 'LightGBMXT': 0.0018494129180908203, 'LightGBM': 0.002140045166015625, 'RandomForestMSE': 0.12178444862365723, 'CatBoost': 0.009974241256713867, 'ExtraTreesMSE': 0.12964916229248047, 'NeuralNetFastAI': 0.023116350173950195, 'XGBoost': 0.009316682815551758, 'NeuralNetTorch': 0.012609720230102539, 'LightGBMLarge': 0.002718687057495117, 'WeightedEnsemble_L2': 0.000507354736328125}, 'num_bag_folds': 0, 'max_stack_level': 2, 'model_hyperparams': {'KNeighborsUnif': {'weights': 'uniform'}, 'KNeighborsDist': {'weights': 'distance'}, 'LightGBMXT': {'learning_rate': 0.05, 'extra_trees': True}, 'LightGBM': {'learning_rate': 0.05}, 'RandomForestMSE': {'n_estimators': 300, 'max_leaf_nodes': 15000, 'n_jobs': -1, 'random_state': 0, 'bootstrap': True, 'criterion': 'squared_error'}, 'CatBoost': {'iterations': 10000, 'learning_rate': 0.05, 'random_seed': 0, 'allow_writing_files': False, 'eval_metric': 'RMSE'}, 'ExtraTreesMSE': {'n_estimators': 300, 'max_leaf_nodes': 15000, 'n_jobs': -1, 'random_state': 0, 'bootstrap': True, 'criterion': 'squared_error'}, 'NeuralNetFastAI': {'layers': None, 'emb_drop': 0.1, 'ps': 0.1, 'bs': 'auto', 'lr': 0.01, 'epochs': 'auto', 'early.stopping.min_delta': 0.0001, 'early.stopping.patience': 20, 'smoothing': 0.0}, 'XGBoost': {'n_estimators': 10000, 'learning_rate': 0.1, 'n_jobs': -1, 'proc.max_category_levels': 100, 'objective': 'reg:squarederror', 'booster': 'gbtree'}, 'NeuralNetTorch': {'num_epochs': 500, 'epochs_wo_improve': 20, 'activation': 'relu', 'embedding_size_factor': 1.0, 'embed_exponent': 0.56, 'max_embedding_dim': 100, 'y_range': None, 'y_range_extend': 0.05, 'dropout_prob': 0.1, 'optimizer': 'adam', 'learning_rate': 0.0003, 'weight_decay': 1e-06, 'proc.embed_min_categories': 4, 'proc.impute_strategy': 'median', 'proc.max_category_levels': 100, 'proc.skew_threshold': 0.99, 'use_ngram_features': False, 'num_layers': 4, 'hidden_size': 128, 'max_batch_size': 512, 'use_batchnorm': False, 'loss_function': 'auto'}, 'LightGBMLarge': {'learning_rate': 0.03, 'num_leaves': 128, 'feature_fraction': 0.9, 'min_data_in_leaf': 5}, 'WeightedEnsemble_L2': {'use_orig_features': False, 'max_base_models': 25, 'max_base_models_per_type': 5, 'save_bag_folds': True}}, 'leaderboard':                   model  score_val  pred_time_val  fit_time  \
-0   WeightedEnsemble_L2  -0.045831       0.241802  3.063132   
-1        NeuralNetTorch  -0.047282       0.012610  1.639451   
-2        KNeighborsDist  -0.050779       0.217228  0.014149   
-3        KNeighborsUnif  -0.051283       0.252184  0.046199   
-4              LightGBM  -0.051313       0.002140  0.400919   
-5              CatBoost  -0.051688       0.009974  2.053365   
-6         ExtraTreesMSE  -0.052272       0.129649  1.251252   
-7       RandomForestMSE  -0.052570       0.121784  1.235245   
-8            LightGBMXT  -0.052674       0.001849  0.509911   
-9               XGBoost  -0.053415       0.009317  0.664885   
-10      NeuralNetFastAI  -0.054301       0.023116  8.005311   
-11        LightGBMLarge  -0.054672       0.002719  1.128855   
+{'model_types': {'KNeighborsUnif_BAG_L1': 'StackerEnsembleModel_KNN', 'KNeighborsDist_BAG_L1': 'StackerEnsembleModel_KNN', 'LightGBMXT_BAG_L1': 'StackerEnsembleModel_LGB', 'LightGBM_BAG_L1': 'StackerEnsembleModel_LGB', 'RandomForestMSE_BAG_L1': 'StackerEnsembleModel_RF', 'CatBoost_BAG_L1': 'StackerEnsembleModel_CatBoost', 'ExtraTreesMSE_BAG_L1': 'StackerEnsembleModel_XT', 'NeuralNetFastAI_BAG_L1': 'StackerEnsembleModel_NNFastAiTabular', 'XGBoost_BAG_L1': 'StackerEnsembleModel_XGBoost', 'NeuralNetTorch_BAG_L1': 'StackerEnsembleModel_TabularNeuralNetTorch', 'LightGBMLarge_BAG_L1': 'StackerEnsembleModel_LGB', 'WeightedEnsemble_L2': 'WeightedEnsembleModel', 'LightGBMXT_BAG_L2': 'StackerEnsembleModel_LGB', 'LightGBM_BAG_L2': 'StackerEnsembleModel_LGB', 'RandomForestMSE_BAG_L2': 'StackerEnsembleModel_RF', 'CatBoost_BAG_L2': 'StackerEnsembleModel_CatBoost', 'ExtraTreesMSE_BAG_L2': 'StackerEnsembleModel_XT', 'NeuralNetFastAI_BAG_L2': 'StackerEnsembleModel_NNFastAiTabular', 'XGBoost_BAG_L2': 'StackerEnsembleModel_XGBoost', 'NeuralNetTorch_BAG_L2': 'StackerEnsembleModel_TabularNeuralNetTorch', 'LightGBMLarge_BAG_L2': 'StackerEnsembleModel_LGB', 'WeightedEnsemble_L3': 'WeightedEnsembleModel', 'LightGBMXT_BAG_L3': 'StackerEnsembleModel_LGB', 'LightGBM_BAG_L3': 'StackerEnsembleModel_LGB', 'RandomForestMSE_BAG_L3': 'StackerEnsembleModel_RF', 'CatBoost_BAG_L3': 'StackerEnsembleModel_CatBoost', 'ExtraTreesMSE_BAG_L3': 'StackerEnsembleModel_XT', 'NeuralNetFastAI_BAG_L3': 'StackerEnsembleModel_NNFastAiTabular', 'XGBoost_BAG_L3': 'StackerEnsembleModel_XGBoost', 'NeuralNetTorch_BAG_L3': 'StackerEnsembleModel_TabularNeuralNetTorch', 'LightGBMLarge_BAG_L3': 'StackerEnsembleModel_LGB', 'WeightedEnsemble_L4': 'WeightedEnsembleModel', 'LightGBMXT_BAG_L4': 'StackerEnsembleModel_LGB', 'LightGBM_BAG_L4': 'StackerEnsembleModel_LGB', 'RandomForestMSE_BAG_L4': 'StackerEnsembleModel_RF', 'CatBoost_BAG_L4': 'StackerEnsembleModel_CatBoost', 'ExtraTreesMSE_BAG_L4': 'StackerEnsembleModel_XT', 'NeuralNetFastAI_BAG_L4': 'StackerEnsembleModel_NNFastAiTabular', 'XGBoost_BAG_L4': 'StackerEnsembleModel_XGBoost', 'NeuralNetTorch_BAG_L4': 'StackerEnsembleModel_TabularNeuralNetTorch', 'LightGBMLarge_BAG_L4': 'StackerEnsembleModel_LGB', 'WeightedEnsemble_L5': 'WeightedEnsembleModel'}, 'model_performance': {'KNeighborsUnif_BAG_L1': -0.05747474545774508, 'KNeighborsDist_BAG_L1': -0.057180478381622275, 'LightGBMXT_BAG_L1': -0.05301551414139081, 'LightGBM_BAG_L1': -0.05346338299593372, 'RandomForestMSE_BAG_L1': -0.053962961326988565, 'CatBoost_BAG_L1': -0.053011090093472844, 'ExtraTreesMSE_BAG_L1': -0.0534873907500012, 'NeuralNetFastAI_BAG_L1': -0.05233039408559805, 'XGBoost_BAG_L1': -0.05413043713904255, 'NeuralNetTorch_BAG_L1': -0.05108538454116008, 'LightGBMLarge_BAG_L1': -0.05443080810448192, 'WeightedEnsemble_L2': -0.050594366986615354, 'LightGBMXT_BAG_L2': -0.05215086941499681, 'LightGBM_BAG_L2': -0.05327005470601214, 'RandomForestMSE_BAG_L2': -0.053155235155232135, 'CatBoost_BAG_L2': -0.052064090548812114, 'ExtraTreesMSE_BAG_L2': -0.05187465624021267, 'NeuralNetFastAI_BAG_L2': -0.04963502137400036, 'XGBoost_BAG_L2': -0.05356970043128438, 'NeuralNetTorch_BAG_L2': -0.049817745948544066, 'LightGBMLarge_BAG_L2': -0.05355566302871394, 'WeightedEnsemble_L3': -0.048786466032698976, 'LightGBMXT_BAG_L3': -0.05063094593240914, 'LightGBM_BAG_L3': -0.05069280069820793, 'RandomForestMSE_BAG_L3': -0.05118518372521431, 'CatBoost_BAG_L3': -0.051206571528321254, 'ExtraTreesMSE_BAG_L3': -0.05115375786908449, 'NeuralNetFastAI_BAG_L3': -0.04870471461988706, 'XGBoost_BAG_L3': -0.05164590818489305, 'NeuralNetTorch_BAG_L3': -0.050247381435920134, 'LightGBMLarge_BAG_L3': -0.05144169367581273, 'WeightedEnsemble_L4': -0.048441481148440185, 'LightGBMXT_BAG_L4': -0.0500246545863867, 'LightGBM_BAG_L4': -0.05019999954199788, 'RandomForestMSE_BAG_L4': -0.05084443143307069, 'CatBoost_BAG_L4': -0.05016620282588404, 'ExtraTreesMSE_BAG_L4': -0.04990052620743758, 'NeuralNetFastAI_BAG_L4': -0.05066726268182357, 'XGBoost_BAG_L4': -0.050905546044939236, 'NeuralNetTorch_BAG_L4': -0.05095395677626404, 'LightGBMLarge_BAG_L4': -0.05035970316082893, 'WeightedEnsemble_L5': -0.04948509989606643}, 'model_best': 'WeightedEnsemble_L4', 'model_paths': {'KNeighborsUnif_BAG_L1': './agModels-body/models/KNeighborsUnif_BAG_L1/', 'KNeighborsDist_BAG_L1': './agModels-body/models/KNeighborsDist_BAG_L1/', 'LightGBMXT_BAG_L1': './agModels-body/models/LightGBMXT_BAG_L1/', 'LightGBM_BAG_L1': './agModels-body/models/LightGBM_BAG_L1/', 'RandomForestMSE_BAG_L1': './agModels-body/models/RandomForestMSE_BAG_L1/', 'CatBoost_BAG_L1': './agModels-body/models/CatBoost_BAG_L1/', 'ExtraTreesMSE_BAG_L1': './agModels-body/models/ExtraTreesMSE_BAG_L1/', 'NeuralNetFastAI_BAG_L1': './agModels-body/models/NeuralNetFastAI_BAG_L1/', 'XGBoost_BAG_L1': './agModels-body/models/XGBoost_BAG_L1/', 'NeuralNetTorch_BAG_L1': './agModels-body/models/NeuralNetTorch_BAG_L1/', 'LightGBMLarge_BAG_L1': './agModels-body/models/LightGBMLarge_BAG_L1/', 'WeightedEnsemble_L2': './agModels-body/models/WeightedEnsemble_L2/', 'LightGBMXT_BAG_L2': './agModels-body/models/LightGBMXT_BAG_L2/', 'LightGBM_BAG_L2': './agModels-body/models/LightGBM_BAG_L2/', 'RandomForestMSE_BAG_L2': './agModels-body/models/RandomForestMSE_BAG_L2/', 'CatBoost_BAG_L2': './agModels-body/models/CatBoost_BAG_L2/', 'ExtraTreesMSE_BAG_L2': './agModels-body/models/ExtraTreesMSE_BAG_L2/', 'NeuralNetFastAI_BAG_L2': './agModels-body/models/NeuralNetFastAI_BAG_L2/', 'XGBoost_BAG_L2': './agModels-body/models/XGBoost_BAG_L2/', 'NeuralNetTorch_BAG_L2': './agModels-body/models/NeuralNetTorch_BAG_L2/', 'LightGBMLarge_BAG_L2': './agModels-body/models/LightGBMLarge_BAG_L2/', 'WeightedEnsemble_L3': './agModels-body/models/WeightedEnsemble_L3/', 'LightGBMXT_BAG_L3': './agModels-body/models/LightGBMXT_BAG_L3/', 'LightGBM_BAG_L3': './agModels-body/models/LightGBM_BAG_L3/', 'RandomForestMSE_BAG_L3': './agModels-body/models/RandomForestMSE_BAG_L3/', 'CatBoost_BAG_L3': './agModels-body/models/CatBoost_BAG_L3/', 'ExtraTreesMSE_BAG_L3': './agModels-body/models/ExtraTreesMSE_BAG_L3/', 'NeuralNetFastAI_BAG_L3': './agModels-body/models/NeuralNetFastAI_BAG_L3/', 'XGBoost_BAG_L3': './agModels-body/models/XGBoost_BAG_L3/', 'NeuralNetTorch_BAG_L3': './agModels-body/models/NeuralNetTorch_BAG_L3/', 'LightGBMLarge_BAG_L3': './agModels-body/models/LightGBMLarge_BAG_L3/', 'WeightedEnsemble_L4': './agModels-body/models/WeightedEnsemble_L4/', 'LightGBMXT_BAG_L4': './agModels-body/models/LightGBMXT_BAG_L4/', 'LightGBM_BAG_L4': './agModels-body/models/LightGBM_BAG_L4/', 'RandomForestMSE_BAG_L4': './agModels-body/models/RandomForestMSE_BAG_L4/', 'CatBoost_BAG_L4': './agModels-body/models/CatBoost_BAG_L4/', 'ExtraTreesMSE_BAG_L4': './agModels-body/models/ExtraTreesMSE_BAG_L4/', 'NeuralNetFastAI_BAG_L4': './agModels-body/models/NeuralNetFastAI_BAG_L4/', 'XGBoost_BAG_L4': './agModels-body/models/XGBoost_BAG_L4/', 'NeuralNetTorch_BAG_L4': './agModels-body/models/NeuralNetTorch_BAG_L4/', 'LightGBMLarge_BAG_L4': './agModels-body/models/LightGBMLarge_BAG_L4/', 'WeightedEnsemble_L5': './agModels-body/models/WeightedEnsemble_L5/'}, 'model_fit_times': {'KNeighborsUnif_BAG_L1': 0.024591922760009766, 'KNeighborsDist_BAG_L1': 0.011347532272338867, 'LightGBMXT_BAG_L1': 4.495945453643799, 'LightGBM_BAG_L1': 10.616957664489746, 'RandomForestMSE_BAG_L1': 1.2466189861297607, 'CatBoost_BAG_L1': 103.68571829795837, 'ExtraTreesMSE_BAG_L1': 1.3925995826721191, 'NeuralNetFastAI_BAG_L1': 8.335886240005493, 'XGBoost_BAG_L1': 9.903992652893066, 'NeuralNetTorch_BAG_L1': 18.922390460968018, 'LightGBMLarge_BAG_L1': 75.93214321136475, 'WeightedEnsemble_L2': 0.85923171043396, 'LightGBMXT_BAG_L2': 7.282486438751221, 'LightGBM_BAG_L2': 33.077396869659424, 'RandomForestMSE_BAG_L2': 2.1983931064605713, 'CatBoost_BAG_L2': 82.85874271392822, 'ExtraTreesMSE_BAG_L2': 1.291046142578125, 'NeuralNetFastAI_BAG_L2': 11.321736097335815, 'XGBoost_BAG_L2': 10.895416259765625, 'NeuralNetTorch_BAG_L2': 16.052703142166138, 'LightGBMLarge_BAG_L2': 43.975725412368774, 'WeightedEnsemble_L3': 0.5815260410308838, 'LightGBMXT_BAG_L3': 6.48398232460022, 'LightGBM_BAG_L3': 13.996062994003296, 'RandomForestMSE_BAG_L3': 0.9895877838134766, 'CatBoost_BAG_L3': 32.79546570777893, 'ExtraTreesMSE_BAG_L3': 1.5579586029052734, 'NeuralNetFastAI_BAG_L3': 9.264448881149292, 'XGBoost_BAG_L3': 12.190486669540405, 'NeuralNetTorch_BAG_L3': 24.601576328277588, 'LightGBMLarge_BAG_L3': 17.616933345794678, 'WeightedEnsemble_L4': 0.6676440238952637, 'LightGBMXT_BAG_L4': 5.80404257774353, 'LightGBM_BAG_L4': 5.640084505081177, 'RandomForestMSE_BAG_L4': 1.7701048851013184, 'CatBoost_BAG_L4': 35.27966022491455, 'ExtraTreesMSE_BAG_L4': 1.481811761856079, 'NeuralNetFastAI_BAG_L4': 9.952421426773071, 'XGBoost_BAG_L4': 12.787205457687378, 'NeuralNetTorch_BAG_L4': 12.491723537445068, 'LightGBMLarge_BAG_L4': 34.66548800468445, 'WeightedEnsemble_L5': 0.6768844127655029}, 'model_pred_times': {'KNeighborsUnif_BAG_L1': 0.2510848045349121, 'KNeighborsDist_BAG_L1': 0.23764753341674805, 'LightGBMXT_BAG_L1': 0.04630756378173828, 'LightGBM_BAG_L1': 0.13265466690063477, 'RandomForestMSE_BAG_L1': 0.16738343238830566, 'CatBoost_BAG_L1': 0.17577385902404785, 'ExtraTreesMSE_BAG_L1': 0.19144654273986816, 'NeuralNetFastAI_BAG_L1': 0.4164881706237793, 'XGBoost_BAG_L1': 0.770315408706665, 'NeuralNetTorch_BAG_L1': 0.5499694347381592, 'LightGBMLarge_BAG_L1': 0.44285011291503906, 'WeightedEnsemble_L2': 0.001226186752319336, 'LightGBMXT_BAG_L2': 0.1197514533996582, 'LightGBM_BAG_L2': 0.2164928913116455, 'RandomForestMSE_BAG_L2': 0.21403002738952637, 'CatBoost_BAG_L2': 0.18489313125610352, 'ExtraTreesMSE_BAG_L2': 0.21416616439819336, 'NeuralNetFastAI_BAG_L2': 0.5947480201721191, 'XGBoost_BAG_L2': 0.48044419288635254, 'NeuralNetTorch_BAG_L2': 0.5102860927581787, 'LightGBMLarge_BAG_L2': 0.1834878921508789, 'WeightedEnsemble_L3': 0.0010499954223632812, 'LightGBMXT_BAG_L3': 0.15730619430541992, 'LightGBM_BAG_L3': 0.13361454010009766, 'RandomForestMSE_BAG_L3': 0.1708672046661377, 'CatBoost_BAG_L3': 0.11432623863220215, 'ExtraTreesMSE_BAG_L3': 0.2100059986114502, 'NeuralNetFastAI_BAG_L3': 0.6098253726959229, 'XGBoost_BAG_L3': 0.3212709426879883, 'NeuralNetTorch_BAG_L3': 0.8659412860870361, 'LightGBMLarge_BAG_L3': 0.22097349166870117, 'WeightedEnsemble_L4': 0.0013456344604492188, 'LightGBMXT_BAG_L4': 0.1801285743713379, 'LightGBM_BAG_L4': 0.14455366134643555, 'RandomForestMSE_BAG_L4': 0.19269776344299316, 'CatBoost_BAG_L4': 0.14011597633361816, 'ExtraTreesMSE_BAG_L4': 0.19687414169311523, 'NeuralNetFastAI_BAG_L4': 0.5034794807434082, 'XGBoost_BAG_L4': 0.4167296886444092, 'NeuralNetTorch_BAG_L4': 0.667773962020874, 'LightGBMLarge_BAG_L4': 0.31699180603027344, 'WeightedEnsemble_L5': 0.0012047290802001953}, 'num_bag_folds': 5, 'max_stack_level': 5, 'model_hyperparams': {'KNeighborsUnif_BAG_L1': {'use_orig_features': True, 'max_base_models': 25, 'max_base_models_per_type': 5, 'save_bag_folds': True, 'use_child_oof': True}, 'KNeighborsDist_BAG_L1': {'use_orig_features': True, 'max_base_models': 25, 'max_base_models_per_type': 5, 'save_bag_folds': True, 'use_child_oof': True}, 'LightGBMXT_BAG_L1': {'use_orig_features': True, 'max_base_models': 25, 'max_base_models_per_type': 5, 'save_bag_folds': True}, 'LightGBM_BAG_L1': {'use_orig_features': True, 'max_base_models': 25, 'max_base_models_per_type': 5, 'save_bag_folds': True}, 'RandomForestMSE_BAG_L1': {'use_orig_features': True, 'max_base_models': 25, 'max_base_models_per_type': 5, 'save_bag_folds': True, 'use_child_oof': True}, 'CatBoost_BAG_L1': {'use_orig_features': True, 'max_base_models': 25, 'max_base_models_per_type': 5, 'save_bag_folds': True}, 'ExtraTreesMSE_BAG_L1': {'use_orig_features': True, 'max_base_models': 25, 'max_base_models_per_type': 5, 'save_bag_folds': True, 'use_child_oof': True}, 'NeuralNetFastAI_BAG_L1': {'use_orig_features': True, 'max_base_models': 25, 'max_base_models_per_type': 5, 'save_bag_folds': True}, 'XGBoost_BAG_L1': {'use_orig_features': True, 'max_base_models': 25, 'max_base_models_per_type': 5, 'save_bag_folds': True}, 'NeuralNetTorch_BAG_L1': {'use_orig_features': True, 'max_base_models': 25, 'max_base_models_per_type': 5, 'save_bag_folds': True}, 'LightGBMLarge_BAG_L1': {'use_orig_features': True, 'max_base_models': 25, 'max_base_models_per_type': 5, 'save_bag_folds': True}, 'WeightedEnsemble_L2': {'use_orig_features': False, 'max_base_models': 25, 'max_base_models_per_type': 5, 'save_bag_folds': True}, 'LightGBMXT_BAG_L2': {'use_orig_features': True, 'max_base_models': 25, 'max_base_models_per_type': 5, 'save_bag_folds': True}, 'LightGBM_BAG_L2': {'use_orig_features': True, 'max_base_models': 25, 'max_base_models_per_type': 5, 'save_bag_folds': True}, 'RandomForestMSE_BAG_L2': {'use_orig_features': True, 'max_base_models': 25, 'max_base_models_per_type': 5, 'save_bag_folds': True, 'use_child_oof': True}, 'CatBoost_BAG_L2': {'use_orig_features': True, 'max_base_models': 25, 'max_base_models_per_type': 5, 'save_bag_folds': True}, 'ExtraTreesMSE_BAG_L2': {'use_orig_features': True, 'max_base_models': 25, 'max_base_models_per_type': 5, 'save_bag_folds': True, 'use_child_oof': True}, 'NeuralNetFastAI_BAG_L2': {'use_orig_features': True, 'max_base_models': 25, 'max_base_models_per_type': 5, 'save_bag_folds': True}, 'XGBoost_BAG_L2': {'use_orig_features': True, 'max_base_models': 25, 'max_base_models_per_type': 5, 'save_bag_folds': True}, 'NeuralNetTorch_BAG_L2': {'use_orig_features': True, 'max_base_models': 25, 'max_base_models_per_type': 5, 'save_bag_folds': True}, 'LightGBMLarge_BAG_L2': {'use_orig_features': True, 'max_base_models': 25, 'max_base_models_per_type': 5, 'save_bag_folds': True}, 'WeightedEnsemble_L3': {'use_orig_features': False, 'max_base_models': 25, 'max_base_models_per_type': 5, 'save_bag_folds': True}, 'LightGBMXT_BAG_L3': {'use_orig_features': True, 'max_base_models': 25, 'max_base_models_per_type': 5, 'save_bag_folds': True}, 'LightGBM_BAG_L3': {'use_orig_features': True, 'max_base_models': 25, 'max_base_models_per_type': 5, 'save_bag_folds': True}, 'RandomForestMSE_BAG_L3': {'use_orig_features': True, 'max_base_models': 25, 'max_base_models_per_type': 5, 'save_bag_folds': True, 'use_child_oof': True}, 'CatBoost_BAG_L3': {'use_orig_features': True, 'max_base_models': 25, 'max_base_models_per_type': 5, 'save_bag_folds': True}, 'ExtraTreesMSE_BAG_L3': {'use_orig_features': True, 'max_base_models': 25, 'max_base_models_per_type': 5, 'save_bag_folds': True, 'use_child_oof': True}, 'NeuralNetFastAI_BAG_L3': {'use_orig_features': True, 'max_base_models': 25, 'max_base_models_per_type': 5, 'save_bag_folds': True}, 'XGBoost_BAG_L3': {'use_orig_features': True, 'max_base_models': 25, 'max_base_models_per_type': 5, 'save_bag_folds': True}, 'NeuralNetTorch_BAG_L3': {'use_orig_features': True, 'max_base_models': 25, 'max_base_models_per_type': 5, 'save_bag_folds': True}, 'LightGBMLarge_BAG_L3': {'use_orig_features': True, 'max_base_models': 25, 'max_base_models_per_type': 5, 'save_bag_folds': True}, 'WeightedEnsemble_L4': {'use_orig_features': False, 'max_base_models': 25, 'max_base_models_per_type': 5, 'save_bag_folds': True}, 'LightGBMXT_BAG_L4': {'use_orig_features': True, 'max_base_models': 25, 'max_base_models_per_type': 5, 'save_bag_folds': True}, 'LightGBM_BAG_L4': {'use_orig_features': True, 'max_base_models': 25, 'max_base_models_per_type': 5, 'save_bag_folds': True}, 'RandomForestMSE_BAG_L4': {'use_orig_features': True, 'max_base_models': 25, 'max_base_models_per_type': 5, 'save_bag_folds': True, 'use_child_oof': True}, 'CatBoost_BAG_L4': {'use_orig_features': True, 'max_base_models': 25, 'max_base_models_per_type': 5, 'save_bag_folds': True}, 'ExtraTreesMSE_BAG_L4': {'use_orig_features': True, 'max_base_models': 25, 'max_base_models_per_type': 5, 'save_bag_folds': True, 'use_child_oof': True}, 'NeuralNetFastAI_BAG_L4': {'use_orig_features': True, 'max_base_models': 25, 'max_base_models_per_type': 5, 'save_bag_folds': True}, 'XGBoost_BAG_L4': {'use_orig_features': True, 'max_base_models': 25, 'max_base_models_per_type': 5, 'save_bag_folds': True}, 'NeuralNetTorch_BAG_L4': {'use_orig_features': True, 'max_base_models': 25, 'max_base_models_per_type': 5, 'save_bag_folds': True}, 'LightGBMLarge_BAG_L4': {'use_orig_features': True, 'max_base_models': 25, 'max_base_models_per_type': 5, 'save_bag_folds': True}, 'WeightedEnsemble_L5': {'use_orig_features': False, 'max_base_models': 25, 'max_base_models_per_type': 5, 'save_bag_folds': True}}, 'leaderboard':                      model  score_val  pred_time_val    fit_time  \
+0      WeightedEnsemble_L4  -0.048441       7.898605  490.245994   
+1   NeuralNetFastAI_BAG_L3  -0.048705       6.710047  452.786287   
+2      WeightedEnsemble_L3  -0.048786       4.488006  262.524157   
+3      WeightedEnsemble_L5  -0.049485      11.151960  640.713960   
+4   NeuralNetFastAI_BAG_L2  -0.049635       3.976670  245.889928   
+5    NeuralNetTorch_BAG_L2  -0.049818       3.892208  250.620895   
+6     ExtraTreesMSE_BAG_L4  -0.049901       9.101227  564.500153   
+7        LightGBMXT_BAG_L4  -0.050025       9.084481  568.822383   
+8          CatBoost_BAG_L4  -0.050166       9.044469  598.298001   
+9          LightGBM_BAG_L4  -0.050200       9.048906  568.658425   
+10   NeuralNetTorch_BAG_L3  -0.050247       6.966163  468.123415   
+11    LightGBMLarge_BAG_L4  -0.050360       9.221344  597.683829   
+12     WeightedEnsemble_L2  -0.050594       2.167093   39.425448   
+13       LightGBMXT_BAG_L3  -0.050631       6.257528  450.005821   
+14  NeuralNetFastAI_BAG_L4  -0.050667       9.407832  572.970762   
+15         LightGBM_BAG_L3  -0.050693       6.233836  457.517901   
+16  RandomForestMSE_BAG_L4  -0.050844       9.097050  564.788446   
+17          XGBoost_BAG_L4  -0.050906       9.321082  575.805546   
+18   NeuralNetTorch_BAG_L4  -0.050954       9.572127  575.510064   
+19   NeuralNetTorch_BAG_L1  -0.051085       0.549969   18.922390   
+20    ExtraTreesMSE_BAG_L3  -0.051154       6.310227  445.079797   
+21  RandomForestMSE_BAG_L3  -0.051185       6.271089  444.511426   
+22         CatBoost_BAG_L3  -0.051207       6.214548  476.317304   
+23    LightGBMLarge_BAG_L3  -0.051442       6.321195  461.138772   
+24          XGBoost_BAG_L3  -0.051646       6.421492  455.712325   
+25    ExtraTreesMSE_BAG_L2  -0.051875       3.596088  235.859238   
+26         CatBoost_BAG_L2  -0.052064       3.566815  317.426935   
+27       LightGBMXT_BAG_L2  -0.052151       3.501673  241.850678   
+28  NeuralNetFastAI_BAG_L1  -0.052330       0.416488    8.335886   
+29         CatBoost_BAG_L1  -0.053011       0.175774  103.685718   
+30       LightGBMXT_BAG_L1  -0.053016       0.046308    4.495945   
+31  RandomForestMSE_BAG_L2  -0.053155       3.595952  236.766585   
+32         LightGBM_BAG_L2  -0.053270       3.598414  267.645589   
+33         LightGBM_BAG_L1  -0.053463       0.132655   10.616958   
+34    ExtraTreesMSE_BAG_L1  -0.053487       0.191447    1.392600   
+35    LightGBMLarge_BAG_L2  -0.053556       3.565409  278.543917   
+36          XGBoost_BAG_L2  -0.053570       3.862366  245.463608   
+37  RandomForestMSE_BAG_L1  -0.053963       0.167383    1.246619   
+38          XGBoost_BAG_L1  -0.054130       0.770315    9.903993   
+39    LightGBMLarge_BAG_L1  -0.054431       0.442850   75.932143   
+40   KNeighborsDist_BAG_L1  -0.057180       0.237648    0.011348   
+41   KNeighborsUnif_BAG_L1  -0.057475       0.251085    0.024592   
 
     pred_time_val_marginal  fit_time_marginal  stack_level  can_infer  \
-0                 0.000507           0.343728            2       True   
-1                 0.012610           1.639451            1       True   
-2                 0.217228           0.014149            1       True   
-3                 0.252184           0.046199            1       True   
-4                 0.002140           0.400919            1       True   
-5                 0.009974           2.053365            1       True   
-6                 0.129649           1.251252            1       True   
-7                 0.121784           1.235245            1       True   
-8                 0.001849           0.509911            1       True   
-9                 0.009317           0.664885            1       True   
-10                0.023116           8.005311            1       True   
-11                0.002719           1.128855            1       True   
+0                 0.001346           0.667644            4       True   
+1                 0.609825           9.264449            3       True   
+2                 0.001050           0.581526            3       True   
+3                 0.001205           0.676884            5       True   
+4                 0.594748          11.321736            2       True   
+5                 0.510286          16.052703            2       True   
+6                 0.196874           1.481812            4       True   
+7                 0.180129           5.804043            4       True   
+8                 0.140116          35.279660            4       True   
+9                 0.144554           5.640085            4       True   
+10                0.865941          24.601576            3       True   
+11                0.316992          34.665488            4       True   
+12                0.001226           0.859232            2       True   
+13                0.157306           6.483982            3       True   
+14                0.503479           9.952421            4       True   
+15                0.133615          13.996063            3       True   
+16                0.192698           1.770105            4       True   
+17                0.416730          12.787205            4       True   
+18                0.667774          12.491724            4       True   
+19                0.549969          18.922390            1       True   
+20                0.210006           1.557959            3       True   
+21                0.170867           0.989588            3       True   
+22                0.114326          32.795466            3       True   
+23                0.220973          17.616933            3       True   
+24                0.321271          12.190487            3       True   
+25                0.214166           1.291046            2       True   
+26                0.184893          82.858743            2       True   
+27                0.119751           7.282486            2       True   
+28                0.416488           8.335886            1       True   
+29                0.175774         103.685718            1       True   
+30                0.046308           4.495945            1       True   
+31                0.214030           2.198393            2       True   
+32                0.216493          33.077397            2       True   
+33                0.132655          10.616958            1       True   
+34                0.191447           1.392600            1       True   
+35                0.183488          43.975725            2       True   
+36                0.480444          10.895416            2       True   
+37                0.167383           1.246619            1       True   
+38                0.770315           9.903993            1       True   
+39                0.442850          75.932143            1       True   
+40                0.237648           0.011348            1       True   
+41                0.251085           0.024592            1       True   
 
     fit_order  
-0          12  
-1          10  
-2           2  
-3           1  
-4           4  
-5           6  
-6           7  
-7           5  
-8           3  
-9           9  
-10          8  
-11         11  }
-                  model  score_test  score_val  pred_time_test  pred_time_val  \
-0   WeightedEnsemble_L2   -0.050034  -0.045831        0.294645       0.241802   
-1       RandomForestMSE   -0.050118  -0.052570        0.101433       0.121784   
-2        NeuralNetTorch   -0.050294  -0.047282        0.016921       0.012610   
-3       NeuralNetFastAI   -0.050303  -0.054301        0.037395       0.023116   
-4         ExtraTreesMSE   -0.050705  -0.052272        0.145631       0.129649   
-5              CatBoost   -0.051107  -0.051688        0.016220       0.009974   
-6              LightGBM   -0.051733  -0.051313        0.003264       0.002140   
-7         LightGBMLarge   -0.051889  -0.054672        0.035471       0.002719   
-8               XGBoost   -0.052666  -0.053415        0.021389       0.009317   
-9            LightGBMXT   -0.052905  -0.052674        0.031975       0.001849   
-10       KNeighborsDist   -0.055880  -0.050779        0.247941       0.217228   
-11       KNeighborsUnif   -0.056503  -0.051283        0.193557       0.252184   
+0          32  
+1          28  
+2          22  
+3          42  
+4          18  
+5          20  
+6          37  
+7          33  
+8          36  
+9          34  
+10         30  
+11         41  
+12         12  
+13         23  
+14         38  
+15         24  
+16         35  
+17         39  
+18         40  
+19         10  
+20         27  
+21         25  
+22         26  
+23         31  
+24         29  
+25         17  
+26         16  
+27         13  
+28          8  
+29          6  
+30          3  
+31         15  
+32         14  
+33          4  
+34          7  
+35         21  
+36         19  
+37          5  
+38          9  
+39         11  
+40          2  
+41          1  }
+                     model  score_test  score_val  pred_time_test  \
+0           XGBoost_BAG_L4   -0.048087  -0.050906       29.497362   
+1   NeuralNetFastAI_BAG_L2   -0.048294  -0.049635       10.526369   
+2          LightGBM_BAG_L4   -0.048338  -0.050200       30.698467   
+3     LightGBMLarge_BAG_L4   -0.048803  -0.050360       30.916132   
+4   NeuralNetFastAI_BAG_L3   -0.048953  -0.048705       19.937400   
+5   NeuralNetFastAI_BAG_L4   -0.048965  -0.050667       29.578262   
+6      WeightedEnsemble_L3   -0.048994  -0.048786       10.910732   
+7        LightGBMXT_BAG_L4   -0.049050  -0.050025       30.750784   
+8      WeightedEnsemble_L5   -0.049100  -0.049485       35.063141   
+9      WeightedEnsemble_L4   -0.049234  -0.048441       21.531286   
+10          XGBoost_BAG_L2   -0.049390  -0.053570       10.779217   
+11         CatBoost_BAG_L4   -0.049553  -0.050166       28.845402   
+12    ExtraTreesMSE_BAG_L3   -0.049605  -0.051154       19.068147   
+13  RandomForestMSE_BAG_L4   -0.049644  -0.050844       28.933219   
+14    ExtraTreesMSE_BAG_L4   -0.049877  -0.049901       28.916345   
+15     WeightedEnsemble_L2   -0.049889  -0.050594        2.342187   
+16    LightGBMLarge_BAG_L2   -0.049891  -0.053556       12.414526   
+17    LightGBMLarge_BAG_L3   -0.049928  -0.051442       21.181090   
+18       LightGBMXT_BAG_L3   -0.049976  -0.050631       21.159430   
+19         LightGBM_BAG_L3   -0.050039  -0.050693       21.156230   
+20         LightGBM_BAG_L2   -0.050039  -0.053270       12.334323   
+21         CatBoost_BAG_L3   -0.050181  -0.051207       19.079425   
+22   NeuralNetTorch_BAG_L1   -0.050249  -0.051085        0.369714   
+23    ExtraTreesMSE_BAG_L2   -0.050292  -0.051875       10.196611   
+24          XGBoost_BAG_L3   -0.050369  -0.051646       19.800191   
+25       LightGBMXT_BAG_L2   -0.050372  -0.052151       12.250882   
+26  NeuralNetFastAI_BAG_L1   -0.050441  -0.052330        0.743341   
+27  RandomForestMSE_BAG_L3   -0.050649  -0.051185       19.083866   
+28         CatBoost_BAG_L1   -0.050679  -0.053011        0.149307   
+29         CatBoost_BAG_L2   -0.050757  -0.052064       10.257568   
+30       LightGBMXT_BAG_L1   -0.050757  -0.053016        2.334276   
+31   NeuralNetTorch_BAG_L2   -0.050975  -0.049818       10.442952   
+32  RandomForestMSE_BAG_L2   -0.050976  -0.053155       10.241253   
+33    ExtraTreesMSE_BAG_L1   -0.051148  -0.053487        0.128622   
+34         LightGBM_BAG_L1   -0.051252  -0.053463        2.134335   
+35          XGBoost_BAG_L1   -0.051263  -0.054130        0.633365   
+36  RandomForestMSE_BAG_L1   -0.051302  -0.053963        0.115730   
+37    LightGBMLarge_BAG_L1   -0.051409  -0.054431        2.669642   
+38   NeuralNetTorch_BAG_L3   -0.051876  -0.050247       19.623395   
+39   NeuralNetTorch_BAG_L4   -0.051970  -0.050954       29.152381   
+40   KNeighborsDist_BAG_L1   -0.055438  -0.057180        0.455802   
+41   KNeighborsUnif_BAG_L1   -0.056861  -0.057475        0.331525   
 
-    fit_time  pred_time_test_marginal  pred_time_val_marginal  \
-0   3.063132                 0.005130                0.000507   
-1   1.235245                 0.101433                0.121784   
-2   1.639451                 0.016921                0.012610   
-3   8.005311                 0.037395                0.023116   
-4   1.251252                 0.145631                0.129649   
-5   2.053365                 0.016220                0.009974   
-6   0.400919                 0.003264                0.002140   
-7   1.128855                 0.035471                0.002719   
-8   0.664885                 0.021389                0.009317   
-9   0.509911                 0.031975                0.001849   
-10  0.014149                 0.247941                0.217228   
-11  0.046199                 0.193557                0.252184   
+    pred_time_val    fit_time  pred_time_test_marginal  \
+0        9.321082  575.805546                 0.755744   
+1        3.976670  245.889928                 0.460712   
+2        9.048906  568.658425                 1.956850   
+3        9.221344  597.683829                 2.174515   
+4        6.710047  452.786287                 1.018955   
+5        9.407832  572.970762                 0.836645   
+6        4.488006  262.524157                 0.007068   
+7        9.084481  568.822383                 2.009167   
+8       11.151960  640.713960                 0.012279   
+9        7.898605  490.245994                 0.007188   
+10       3.862366  245.463608                 0.713560   
+11       9.044469  598.298001                 0.103784   
+12       6.310227  445.079797                 0.149703   
+13       9.097050  564.788446                 0.191602   
+14       9.101227  564.500153                 0.174728   
+15       2.167093   39.425448                 0.011344   
+16       3.565409  278.543917                 2.348869   
+17       6.321195  461.138772                 2.262645   
+18       6.257528  450.005821                 2.240985   
+19       6.233836  457.517901                 2.237785   
+20       3.598414  267.645589                 2.268666   
+21       6.214548  476.317304                 0.160980   
+22       0.549969   18.922390                 0.369714   
+23       3.596088  235.859238                 0.130954   
+24       6.421492  455.712325                 0.881747   
+25       3.501673  241.850678                 2.185225   
+26       0.416488    8.335886                 0.743341   
+27       6.271089  444.511426                 0.165422   
+28       0.175774  103.685718                 0.149307   
+29       3.566815  317.426935                 0.191911   
+30       0.046308    4.495945                 2.334276   
+31       3.892208  250.620895                 0.377295   
+32       3.595952  236.766585                 0.175596   
+33       0.191447    1.392600                 0.128622   
+34       0.132655   10.616958                 2.134335   
+35       0.770315    9.903993                 0.633365   
+36       0.167383    1.246619                 0.115730   
+37       0.442850   75.932143                 2.669642   
+38       6.966163  468.123415                 0.704951   
+39       9.572127  575.510064                 0.410764   
+40       0.237648    0.011348                 0.455802   
+41       0.251085    0.024592                 0.331525   
 
-    fit_time_marginal  stack_level  can_infer  fit_order  
-0            0.343728            2       True         12  
-1            1.235245            1       True          5  
-2            1.639451            1       True         10  
-3            8.005311            1       True          8  
-4            1.251252            1       True          7  
-5            2.053365            1       True          6  
-6            0.400919            1       True          4  
-7            1.128855            1       True         11  
-8            0.664885            1       True          9  
-9            0.509911            1       True          3  
-10           0.014149            1       True          2  
-11           0.046199            1       True          1  
+    pred_time_val_marginal  fit_time_marginal  stack_level  can_infer  \
+0                 0.416730          12.787205            4       True   
+1                 0.594748          11.321736            2       True   
+2                 0.144554           5.640085            4       True   
+3                 0.316992          34.665488            4       True   
+4                 0.609825           9.264449            3       True   
+5                 0.503479           9.952421            4       True   
+6                 0.001050           0.581526            3       True   
+7                 0.180129           5.804043            4       True   
+8                 0.001205           0.676884            5       True   
+9                 0.001346           0.667644            4       True   
+10                0.480444          10.895416            2       True   
+11                0.140116          35.279660            4       True   
+12                0.210006           1.557959            3       True   
+13                0.192698           1.770105            4       True   
+14                0.196874           1.481812            4       True   
+15                0.001226           0.859232            2       True   
+16                0.183488          43.975725            2       True   
+17                0.220973          17.616933            3       True   
+18                0.157306           6.483982            3       True   
+19                0.133615          13.996063            3       True   
+20                0.216493          33.077397            2       True   
+21                0.114326          32.795466            3       True   
+22                0.549969          18.922390            1       True   
+23                0.214166           1.291046            2       True   
+24                0.321271          12.190487            3       True   
+25                0.119751           7.282486            2       True   
+26                0.416488           8.335886            1       True   
+27                0.170867           0.989588            3       True   
+28                0.175774         103.685718            1       True   
+29                0.184893          82.858743            2       True   
+30                0.046308           4.495945            1       True   
+31                0.510286          16.052703            2       True   
+32                0.214030           2.198393            2       True   
+33                0.191447           1.392600            1       True   
+34                0.132655          10.616958            1       True   
+35                0.770315           9.903993            1       True   
+36                0.167383           1.246619            1       True   
+37                0.442850          75.932143            1       True   
+38                0.865941          24.601576            3       True   
+39                0.667774          12.491724            4       True   
+40                0.237648           0.011348            1       True   
+41                0.251085           0.024592            1       True   
+
+    fit_order  
+0          39  
+1          18  
+2          34  
+3          41  
+4          28  
+5          38  
+6          22  
+7          33  
+8          42  
+9          32  
+10         19  
+11         36  
+12         27  
+13         35  
+14         37  
+15         12  
+16         21  
+17         31  
+18         23  
+19         24  
+20         14  
+21         26  
+22         10  
+23         17  
+24         29  
+25         13  
+26          8  
+27         25  
+28          6  
+29         16  
+30          3  
+31         20  
+32         15  
+33          7  
+34          4  
+35          9  
+36          5  
+37         11  
+38         30  
+39         40  
+40          2  
+41          1  
