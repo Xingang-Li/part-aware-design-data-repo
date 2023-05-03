@@ -138,9 +138,11 @@ if __name__ == "__main__":
     # all_part_output_file = this_folder / "model_vector_drag" / "all_parts_vectors_drags.csv"
     # form_model_vector_drag(vector_file=all_part_vector_file, model_drag_file=models_with_drags_file, output_file=all_part_output_file)
     
-    #SPVAE vectors, three configurations
-    dimension_list = [2500] #[5040, 10240, 20000]
+    #3DPG vectors, three configurations
+    dimension_list = [5040, 10240, 20000]
     for dimension in tqdm(dimension_list):
-        all_part_vector_file = this_folder / f"{dimension}_vectors.csv"
-        all_part_output_file = this_folder / "model_vector_drag" / f"{dimension}_vectors_drags.csv"
-        form_model_vector_drag(vector_file=all_part_vector_file, model_drag_file=models_with_drags_file, output_file=all_part_output_file)
+        vector_file = this_folder / f"{dimension}_vectors_sdf_low_res50200.csv"
+        output_file = this_folder / "model_vector_drag" / f"{dimension}_vectors_drags_sdf_low_res50200.csv"
+        form_model_vector_drag(vector_file=vector_file, model_drag_file=models_with_drags_file, output_file=output_file)
+
+    
